@@ -1,12 +1,10 @@
 <img src="https://opensearch.org/assets/img/opensearch-logo-themed.svg" height="64px">
 
-- [OpenSearch Dashboards Reports](#opensearch-dashboards-reporting)
+- [OpenSearch Dashboards Reports](#opensearch-dashboards-reports)
 - [Code Summary](#code-summary)
-- [Documentation](#documentation)
+- [Documentation](#documentation--forum)
 - [Contributing](#contributing)
-- [Setup](#setup-&-build)
-- [Notifications Integration](#notifications-integration)
-- [Troubleshooting](#troubleshooting)
+- [Setup](#setup--build)
 - [Code of Conduct](#code-of-conduct)
 - [Security](#security)
 - [License](#license)
